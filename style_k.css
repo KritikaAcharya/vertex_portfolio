@@ -119,4 +119,118 @@ h4{
     border-radius: 6px;
     background-color: #006a6a;
 }
+
+/*ABOUT SECTION*/
+
+.about{
+    width: 100%;
+    padding: 100px 0px;
+    background-color: white;
+}
+.about img{
+    height: auto;
+    width: 500px;
+}
+.about-text{
+    width: 500px;
+}
+.main{
+    width: 1130px;
+    margin: 0px auto;
+    display: flex;
+}
+.about-text h2{
+    color: #6052a6;
+    font-size: 75px;
+    text-transform: capitalize;
+    margin-bottom: 20px;
+
+}
+.about-text h5{
+    color: #f9004d;
+    letter-spacing: 2px;
+    font-size: 22px;
+    text-transform: capitalize;
+    margin-bottom: 25px;
+}
+.about-text span{
+    color:#4cdada;
+}
+.about-text p{
+    color: #6052a6;
+    letter-spacing: 1px;
+    line-height: 28px;
+    font-size: 18px;
+    margin-bottom: 45px;
+}
+button{
+    height: 60px;
+    width: 120px;
+    text-align: center;
+    border-radius: 30px;
+    background-color: #f9004d;
+    color: white;
+    font-weight: bold;
+    cursor: pointer;
+}
+
+/*SKILLS SECTION*/
+
+.skills{
+    background-color: white;
+    width: 100%;
+    padding: 100px 0px;
+}
+.title h2{
+    color:#6052a6;
+    font-size: 70px;
+    text-transform: capitalize;
+    width: 1130px;
+    margin: 20px auto;
+    text-align: center;
+}
+.container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 600px;
+}
+.items{
+    height: 365px;
+    width: 465px;
+    padding: 20px 35px;
+    background-color: #e6deff;
+    border-radius: 20px;
+    margin: 15px;
+    position: relative;
+    text-align: center;
+    overflow: hidden;
+
+}
+.items i{
+    color: #4cdada;
+    font-size: 50px;
+    text-align: center;
+}
+.items h5{
+    color: #6052a6;
+    font-size: 20px;
+    margin-bottom: 25px;
+}
+.pra p{
+    color: #006a6a;
+    line-height: 27px;
+    letter-spacing: 1px;
+    margin-bottom: 25px;
+}
+.items.button{
+    height: 40px;
+    width: 120px;
+    text-align: center;
+    border-radius: 30px;
+    background-color: #4cdada;
+    font-weight: bold;
+    cursor: pointer;
+    
+}
     
