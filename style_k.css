@@ -3,8 +3,9 @@
     margin: 0;
     box-sizing: border-box;
     font-family: 'Josefin Sans', sans-serif;
- 
+    
 }
+
 
 .one{
     height:100vh;
@@ -125,7 +126,7 @@ h4{
 .about{
     width: 100%;
     padding: 100px 0px;
-    background-color: white;
+    /* background-color: white; */
 }
 .about img{
     height: 500px;
@@ -183,7 +184,7 @@ button{
 /*SKILLS SECTION*/
 
 .skills{
-    background-color: white;
+    /* background-color: white; */
     width: 100%;
     padding: 100px 0px;
 }
